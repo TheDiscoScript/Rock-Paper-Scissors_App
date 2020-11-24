@@ -11,3 +11,5 @@ What I learned
 - Functions, calling functions within functions
 
 Took me longer that I would hav guessed, but I don't mind. It was first time combining HTML,CSS and JS. It doesn't look so great, it is missing some features (for example New Game function) but overall I am quite happy and I am going to push forward through the course.
+
+https://willdooo.github.io/odinProject---R-P-S-with-UI/

@@ -74,6 +74,10 @@ function highlightPlayer(playerSelection){
     }
 };
 
+function reload(){
+    setTimeout(function(){window.location.reload(true)}, 2500);
+}
+
 //make function to check if score player SCORE IS 5 = won the game! function checkScore(playerScoreCounter)
 function checkScore(playerScoreCounter, computerScoreCounter){
     if(playerScoreCounter == 5){

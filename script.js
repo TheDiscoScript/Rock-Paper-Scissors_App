@@ -83,9 +83,11 @@ function checkScore(playerScoreCounter, computerScoreCounter){
     if(playerScoreCounter == 5){
         arrayForResults.push(`You WON!! In round #${roundCount} the final score is ${playerScoreCounter} to ${computerScoreCounter}.
          CG!`);
+         reload();
     }else if(computerScoreCounter == 5){
         arrayForResults.push(`You LOST!! In round #${roundCount} the final score is ${playerScoreCounter} to ${computerScoreCounter}.
         Better luck next time!`);
+        reload();
     }
 };
 

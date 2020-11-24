@@ -1,0 +1,57 @@
+<!doctype html>
+
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Project: rock paper scissors - with UI</title>
+  <link rel='stylesheet' href='style.css' type='text/css'>
+</head>
+
+<body>
+    <h1 class='nameOfGame'>ROCK PAPER SCISSORS with UI</h1>
+    <p>Get first to the 5 points</p>
+    <div class='container'>
+        <div class='playerContainer'>
+            <h2>What is your weapon of choice?</h2>
+            <div>
+                <h3 class='userScore' data-score='human'>0</h3>
+            </div>
+            <div class='humanButtons'>
+                    <div>
+                        <img id='rock'  data-buttonforstart="rock"src='img/rock.png'>
+                    </div>
+
+                    <div>
+                        <img id='paper' data-buttonforstart="paper" src='img/paper.png'>
+                    </div>
+
+                    <div>
+                        <img id='scissors' data-buttonforstart="scissors" src='img/scissors.png'>
+                    </div>
+            </div>
+        </div>
+        <div class='playerContainer'>
+            <h2>Computer weapon of choice is:</h2>
+            <div>
+                <h3 class='userScore' data-score='robot'>0</h3>
+            </div>
+            <div class='computerButtons'>
+                    <div>
+                        <img class='rpsChoiceC' id='rockC' src='img/rock.png'>
+                    </div>
+
+                    <div>
+                        <img class='rpsChoiceC' id='paperC' src='img/paper.png'>
+                    </div>
+
+                    <div>
+                        <img class='rpsChoiceC' id='scissorsC' src='img/scissors.png'>
+                    </div>
+            </div>
+        </div>
+    </div>    
+
+
+    <script src="script.js"></script>
+</body>
+</html>

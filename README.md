@@ -14,4 +14,4 @@ Took me longer that I would hav guessed, but I don't mind. It was first time com
 
 
 # live preview
-https://willdooo.github.io/odinProject_RockPaperScissors/
+https://willdooo.github.io/Rock-Paper-Scissors_App/

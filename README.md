@@ -5,7 +5,7 @@
 ## Description
 
 Rock-paper-scissors game you play aganist computer. This proejct taught me about event listeners, DOM and query selectors.
-This was my first project that had some interactivity. Project made as a part of The Odin Project's curriculum](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/rock-paper-scissors).
+This was my first project that had some interactivity. Project made as a part of [The Odin Project's curriculum](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/rock-paper-scissors).
 
 ## Development
 
